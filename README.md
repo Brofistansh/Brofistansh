@@ -19,7 +19,7 @@
 [![](https://gtce.itsvg.in/api?username=brofistansh)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ## 📐 Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Brofistansh&theme=github&area=true&area_color=tokyonight&point=FF1D1D&custom_title=My%20Contribution%20Graph%20(in%20the%20last%2031%20days))]()
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Brofistansh&theme=tokyo-night&area=true&area_color=react&point=FF1D1D&custom_title=My%20Contribution%20Graph%20(in%20the%20last%2031%20days))]()
 
 
 ### ✍️ Random Dev Quote
