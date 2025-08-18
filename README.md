@@ -15,9 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Brofistansh&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Brofistansh&icon=0&color=10)](https://visitcount.itsvg.in)
 
@@ -31,5 +28,6 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
- 
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+
+
