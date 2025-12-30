@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Fine-Tuning-DistilBERT<br>🤝 I’m looking for help with Text-Analysis<br>🌱 I’m currently learning NLP<br>💬 Ask me about unity<br>⚡ Fun fact I'm lazy
+🔭 I’m currently working on ngos-backend<br>🤝 I’m looking for help with Text-Analysis<br>🌱 I’m currently learning NLP<br>💬 Ask me about unity<br>⚡ Fun fact I'm lazy
 
 
 ## 🌐 Socials:
